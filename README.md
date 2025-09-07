@@ -1,8 +1,8 @@
 # 👩‍💻 Olá, eu sou a Emily!
 
 Bem-vindo(a) ao meu perfil do GitHub 🚀  
-Sou estudante de ciência da computação , com experiência em **desenvolvimento web, aplicações desktop e monitoramento em tempo real**.
-Tenho interesse em ampliar meu cohecimentos cada vez mais e obter experiências práticas.
+Sou estudante de ciência da computação, com experiência em **desenvolvimento web, aplicações desktop e monitoramento em tempo real**.
+Tenho interesse em ampliar meu conhecimentos cada vez mais e obter experiências práticas.
 
 ---
 
@@ -36,7 +36,7 @@ Tenho interesse em ampliar meu cohecimentos cada vez mais e obter experiências 
 ## 📌 Projetos em Destaque
 
 
-- 🌐 **Portfólio](https://github.com/emilyfontana/portfolio)** → Um projeto pra me conhecer um pouco mais e sobre meus projetos
+- 🌐 **[Portfólio](https://github.com/emilyfontana/portfolio)** → Um projeto para me conhecer melhor
 - 🌱 **[Sistema de Monitoramento Rural](https://github.com/emilyfontana/projectAgrosensor)** → Monitoramento em tempo real de sensores e atuadores com Flask, MQTT e SQLite  
  
 
