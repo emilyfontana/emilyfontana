@@ -60,9 +60,10 @@ Tenho paixão por aprender e expandir meus conhecimentos aplicando soluções pr
 ---
 
 
-<div align=center>
-##English Version
+<div align="center">
+  <h2>English Version</h2>
 </div>
+
 
 # 👩‍💻 Hi, I'm Emily!
 
