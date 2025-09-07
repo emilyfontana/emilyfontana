@@ -1,8 +1,7 @@
 # 👩‍💻 Olá, eu sou a Emily!
 
 Bem-vindo(a) ao meu perfil do GitHub! 🚀  
-Sou estudante de **Ciência da Computação**, com experiência em **desenvolvimento web, aplicações desktop e monitoramento em tempo real**.  
-Tenho paixão por aprender e expandir meus conhecimentos aplicando soluções práticas com tecnologia.
+Sou estudante de **Ciência da Computação**, com experiência em **desenvolvimento web, aplicações desktop e monitoramento em tempo real**. Tenho paixão por aprender e expandir meus conhecimentos aplicando soluções práticas com tecnologia.
 
 ---
 
@@ -68,8 +67,7 @@ Tenho paixão por aprender e expandir meus conhecimentos aplicando soluções pr
 # 👩‍💻 Hi, I'm Emily!
 
 Welcome to my GitHub profile! 🚀  
-I am a **Computer Science student** with experience in **web development, desktop applications, and real-time monitoring systems**.  
-I am passionate about continuously learning, expanding my knowledge, and applying practical solutions using technology.
+I´m a **Computer Science student** with experience in **web development, desktop applications, and real-time monitoring systems**. I am passionate about continuously learning, expanding my knowledge, and applying practical solutions using technology.
 
 ---
 
