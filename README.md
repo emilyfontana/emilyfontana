@@ -59,7 +59,10 @@ Tenho paixão por aprender e expandir meus conhecimentos aplicando soluções pr
 
 ---
 
-## 👩‍💻 English Version
+
+<div align=center>
+##English Version
+</div>
 
 # 👩‍💻 Hi, I'm Emily!
 
